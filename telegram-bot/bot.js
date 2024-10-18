@@ -19,8 +19,8 @@ bot.onText(/\/start/, (msg) => {
         caption: message, // Message attached as caption to the image
         reply_markup: {
             inline_keyboard: [
-                [{ text: "Launch", url: "https://shorturl.at/TNcMl" }],
-                [{ text: "Join Community", url: "https://t.me/joinchat/XYZCommunity" }]
+                [{ text: "Launch", url: "https://starcoinmaster.github.io/str/" }],
+                [{ text: "Join Community", url: "https://t.me/star_coin_master" }]
             ]
         }
     };
